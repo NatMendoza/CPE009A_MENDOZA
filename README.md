@@ -36,8 +36,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natmendoza&" alt="natmendoza" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natmendoza&show_icons=true&locale=en&layout=compact" alt="natmendoza" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natmendoza&show_icons=true&locale=en" alt="natmendoza" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natmendoza&" alt="natmendoza" /></p>
